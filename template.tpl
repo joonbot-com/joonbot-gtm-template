@@ -33,7 +33,7 @@ ___TEMPLATE_PARAMETERS___
   {
     "type": "TEXT",
     "name": "botId",
-    "displayName": "Bot ID",
+    "displayName": "Widget ID",
     "simpleValueType": true
   }
 ]
