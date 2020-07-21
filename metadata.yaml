@@ -1,5 +1,5 @@
 homepage: "https://www.joonbot.com"
 documentation: "https://www.joonbot.com"
 versions:
-  - sha: f618284af5c6ad67e053d2cee4a853465e8ebb57
+  - sha: a11dd7b793650dea203479080e5187cc210f092f
     changeNotes: Initial release.
